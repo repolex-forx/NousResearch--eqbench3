@@ -1,0 +1,11 @@
+{
+  "org": "NousResearch",
+  "repo": "eqbench3",
+  "versions": [
+    {
+      "commit": "3c21bcc514bd43f93a00a5cf9c630aa3eb73a380",
+      "tag": "",
+      "parsed_at": "2026-10-09T16:06:08.934346+00:00"
+    }
+  ]
+}
